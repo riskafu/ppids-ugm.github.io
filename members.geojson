@@ -23,6 +23,17 @@
         "type": "Point",
         "coordinates": [110, -7.3]
       }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "nama": "Riska",
+        "alamat": "Kuta Baro, Aceh Besar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [95.40418, 5.53426]
+      }
     }
 
   ]
